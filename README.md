@@ -5,6 +5,11 @@ This project encompasses a robust Full-Stack Web Application and iOS Application
 
 # Technologies Used
 **Frontend: Angular, JavaScript, CSS**
+
 **Backend: Node.js, Flask**
+
 **Deployment: AWS**
+
 **iOS Application: Swift, Xcode**
+
+**Live Website Link: [Event Finder](https://daring-leaf-377822.wl.r.appspot.com/)**
